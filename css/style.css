@@ -12,10 +12,15 @@ h1 {
 .container {
   display: flex;
 }
+a{
+    text-align: end;
+}
 .link {
   border: 1px solid navy;
   border-radius: 20px;
   margin-right: 30px;
+    margin-left: 30px;
+
   padding: 10px;
   background-color: snow;
   color: navy;
