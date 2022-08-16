@@ -12,6 +12,10 @@ h1 {
 .container {
   display: flex;
 }
+img{
+    border: 3px solid navy;
+    padding: 5px;
+}
 a{
     text-align: end;
 }
