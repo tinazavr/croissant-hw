@@ -9,8 +9,10 @@ h1 {
   text-align: center;
   width: 300px;
 }
-
-a {
+.container{
+    display: flex;
+}
+.link {
   border: 1px solid navy;
   border-radius: 20px;
   margin-top: 30px;
@@ -19,7 +21,7 @@ a {
   color: navy;
   text-decoration: none;
 }
-a:hover {
+.link:hover {
   color: snow;
   background-color: navy;
 }
